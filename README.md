@@ -8,3 +8,5 @@ LSTM: 94.58%
 GRU: 94.59%
 Arima: 90.71%
 Prophet: 95.21%
+
+Dashboard: https://earthquake-time-series.vercel.app/
