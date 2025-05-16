@@ -4,7 +4,7 @@ Earthquake Prediction Using Time Series Forecasting.
 Dataset: https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023
 
 Models and Model performance:
-LSTM: 94.58%
-GRU: 94.59%
-Arima: 90.71%
-Prophet: 95.21%
+\nLSTM: 94.58%
+\nGRU: 94.59%
+\nArima: 90.71%
+\nProphet: 95.21%
